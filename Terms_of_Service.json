@@ -1,530 +1,161 @@
 [
     {
-        "Company": "Wondershare",
+        "Company": "1Password",
         "Domain": [
-            "https://wondershare.com"
+            "https://https://1password.com"
         ],
         "Terms of Service": [
-            "https://www.wondershare.com/company/terms_conditions.html"
+            "https://1password.com/legal/terms-of-service/"
         ]
     },
     {
-        "Company": "VMware",
+        "Company": "2Checkout",
         "Domain": [
-            "https://vmware.com"
+            "https://https://2checkout.com"
         ],
         "Terms of Service": [
-            "https://www.vmware.com/vmware-general-terms.html"
+            "https://www.2checkout.com/legal/terms/"
         ]
     },
     {
-        "Company": "HubSpot",
+        "Company": "AddThis",
         "Domain": [
-            "https://hubspot.com"
+            "https://https://addthis.com"
         ],
         "Terms of Service": [
-            "https://legal.hubspot.com/terms-of-service"
+            "https://www.addthis.com/privacy/terms-of-service.html"
         ]
     },
     {
-        "Company": "BPlan",
+        "Company": "Aggregage",
         "Domain": [
-            "https://bplans.com"
+            "https://https://aggregage.com"
         ],
         "Terms of Service": [
-            "https://www.bplans.com/policies/terms.php"
-        ]
-    },
-    {
-        "Company": "SAP",
-        "Domain": [
-            "https://sap.com"
-        ],
-        "Terms of Service": [
-            "https://www.sap.com/about/trust-center/agreements/on-premise/general-terms-and-conditions.html ~~ https://support.sap.com/en/terms-of-use.html"
-        ]
-    },
-    {
-        "Company": "Instructure",
-        "Domain": [
-            "https://instructure.com"
-        ],
-        "Terms of Service": [
-            "https://www.instructure.com/policies/terms-of-use"
-        ]
-    },
-    {
-        "Company": "Vantage Circle",
-        "Domain": [
-            "https://vantagecircle.com"
-        ],
-        "Terms of Service": [
-            "https://www.vantagecircle.com/terms-conditions/"
-        ]
-    },
-    {
-        "Company": "Shopify",
-        "Domain": [
-            "https://shopify.com"
-        ],
-        "Terms of Service": [
-            "https://www.shopify.com/legal/terms"
-        ]
-    },
-    {
-        "Company": "Flickr",
-        "Domain": [
-            "https://flickr.com"
-        ],
-        "Terms of Service": [
-            "https://www.flickr.com/help/terms"
-        ]
-    },
-    {
-        "Company": "Embarcadero",
-        "Domain": [
-            "https://embarcadero.com"
-        ],
-        "Terms of Service": [
-            "https://www.embarcadero.com/product-license-and-support-terms"
-        ]
-    },
-    {
-        "Company": "EdrawSoft",
-        "Domain": [
-            "https://edrawsoft.com"
-        ],
-        "Terms of Service": [
-            "https://www.edrawsoft.com/terms-conditions.html"
-        ]
-    },
-    {
-        "Company": "Crunchbase",
-        "Domain": [
-            "https://crunchbase.com"
-        ],
-        "Terms of Service": [
-            "https://about.crunchbase.com/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Solarwinds",
-        "Domain": [
-            "https://solarwinds.com"
-        ],
-        "Terms of Service": [
-            "https://www.solarwinds.com/legal/terms"
-        ]
-    },
-    {
-        "Company": "Dropbox",
-        "Domain": [
-            "https://dropbox.com"
-        ],
-        "Terms of Service": [
-            "https://www.dropbox.com/terms"
-        ]
-    },
-    {
-        "Company": "MediaBrains",
-        "Domain": [
-            "https://mediabrains.com"
-        ],
-        "Terms of Service": [
-            "https://www.mediabrains.com/termsofuse/"
-        ]
-    },
-    {
-        "Company": "Syncfusion",
-        "Domain": [
-            "https://syncfusion.com"
-        ],
-        "Terms of Service": [
-            "https://www.syncfusion.com/terms-of-use"
-        ]
-    },
-    {
-        "Company": "Cision",
-        "Domain": [
-            "https://cision.com"
-        ],
-        "Terms of Service": [
-            "https://www.cision.com/legal/prw-terms/"
-        ]
-    },
-    {
-        "Company": "Eclipse",
-        "Domain": [
-            "https://eclipse.org"
-        ],
-        "Terms of Service": [
-            "https://www.eclipse.org/legal/termsofuse.php"
-        ]
-    },
-    {
-        "Company": "Link Assistant",
-        "Domain": [
-            "https://link-assistant.com"
-        ],
-        "Terms of Service": [
-            "https://www.link-assistant.com/terms-of-services.html"
-        ]
-    },
-    {
-        "Company": "Vimeo",
-        "Domain": [
-            "https://vimeo.com"
-        ],
-        "Terms of Service": [
-            "https://vimeo.com/terms"
-        ]
-    },
-    {
-        "Company": "Evanto",
-        "Domain": [
-            "https://envato.com"
-        ],
-        "Terms of Service": [
-            "https://elements.envato.com/user-terms ~~ https://elements.envato.com/license-terms"
-        ]
-    },
-    {
-        "Company": "Canva",
-        "Domain": [
-            "https://canva.com"
-        ],
-        "Terms of Service": [
-            "https://www.canva.com/policies/terms-of-use/"
-        ]
-    },
-    {
-        "Company": "GoDaddy",
-        "Domain": [
-            "https://godaddy.com"
-        ],
-        "Terms of Service": [
-            "https://www.godaddy.com/legal/agreements/universal-terms-of-service-agreement"
-        ]
-    },
-    {
-        "Company": "LivePlan",
-        "Domain": [
-            "https://liveplan.com"
-        ],
-        "Terms of Service": [
-            "https://www.liveplan.com/policies/terms-of-service"
-        ]
-    },
-    {
-        "Company": "VK",
-        "Domain": [
-            "https://vk.com"
-        ],
-        "Terms of Service": [
-            "https://vk.com/terms"
-        ]
-    },
-    {
-        "Company": "Oracle",
-        "Domain": [
-            "https://oracle.com"
-        ],
-        "Terms of Service": [
-            "https://www.oracle.com/legal/terms.html"
-        ]
-    },
-    {
-        "Company": "Comodo",
-        "Domain": [
-            "https://comodo.com"
-        ],
-        "Terms of Service": [
-            "https://www.comodo.com/privacy-policy/terms.php"
-        ]
-    },
-    {
-        "Company": "Mailchimp",
-        "Domain": [
-            "https://mailchimp.com"
-        ],
-        "Terms of Service": [
-            "https://mailchimp.com/legal/terms/"
-        ]
-    },
-    {
-        "Company": "Moz",
-        "Domain": [
-            "https://moz.com"
-        ],
-        "Terms of Service": [
-            "https://moz.com/terms-of-use"
-        ]
-    },
-    {
-        "Company": "Delphipraxis",
-        "Domain": [
-            "https://delphipraxis.net"
-        ],
-        "Terms of Service": [
-            "https://en.delphipraxis.net/terms/"
-        ]
-    },
-    {
-        "Company": "Hootsuite",
-        "Domain": [
-            "https://hootsuite.com"
-        ],
-        "Terms of Service": [
-            "https://www.hootsuite.com/legal/terms"
-        ]
-    },
-    {
-        "Company": "Pocket",
-        "Domain": [
-            "https://getpocket.com"
-        ],
-        "Terms of Service": [
-            "https://getpocket.com/tos"
-        ]
-    },
-    {
-        "Company": "Zendesk",
-        "Domain": [
-            "https://zendesk.com"
-        ],
-        "Terms of Service": [
-            "https://www.zendesk.com/company/agreements-and-terms/main-services-agreement/ ~~ https://www.zendesk.com/company/agreements-and-terms/"
-        ]
-    },
-    {
-        "Company": "Zoom",
-        "Domain": [
-            "https://zoom.us"
-        ],
-        "Terms of Service": [
-            "https://explore.zoom.us/en/terms/"
-        ]
-    },
-    {
-        "Company": "Semrush",
-        "Domain": [
-            "https://semrush.com"
-        ],
-        "Terms of Service": [
-            "https://www.semrush.com/company/legal/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "WPEngine",
-        "Domain": [
-            "https://wpengine.com"
-        ],
-        "Terms of Service": [
-            "https://wpengine.com/legal/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Slack",
-        "Domain": [
-            "https://slack.com"
-        ],
-        "Terms of Service": [
-            "https://slack.com/terms-of-service/user ~~ https://slack.com/main-services-agreement"
-        ]
-    },
-    {
-        "Company": "Zeef",
-        "Domain": [
-            "https://zeef.com"
-        ],
-        "Terms of Service": [
-            "https://zeef.com/terms"
-        ]
-    },
-    {
-        "Company": "Pingdom",
-        "Domain": [
-            "https://pingdom.com"
-        ],
-        "Terms of Service": [
-            "https://www.pingdom.com/legal/terms-of-use/"
-        ]
-    },
-    {
-        "Company": "Future",
-        "Domain": [
-            "https://futureplc.com"
-        ],
-        "Terms of Service": [
-            "https://futureplc.com/terms-conditions/"
-        ]
-    },
-    {
-        "Company": "Trello",
-        "Domain": [
-            "https://trello.com"
-        ],
-        "Terms of Service": [
-            "https://www.atlassian.com/legal/cloud-terms-of-service"
-        ]
-    },
-    {
-        "Company": "Libsyn",
-        "Domain": [
-            "https://libsyn.com"
-        ],
-        "Terms of Service": [
-            "https://libsyn.com/tos-policies/tos-mylibsyn/"
+            "https://www.aggregage.com/terms-and-conditions/"
         ]
     },
     {
         "Company": "Ahrefs",
         "Domain": [
-            "https://ahrefs.com"
+            "https://https://ahrefs.com"
         ],
         "Terms of Service": [
             "https://ahrefs.com/legal/terms"
         ]
     },
     {
-        "Company": "Palo Alto Netowrks",
-        "Domain": [
-            "https://paloalto.com"
-        ],
-        "Terms of Service": [
-            "https://www.paloaltonetworks.com/legal-notices/terms-of-use"
-        ]
-    },
-    {
-        "Company": "Red Hat",
-        "Domain": [
-            "https://redhat.com"
-        ],
-        "Terms of Service": [
-            "https://www.redhat.com/en/about/terms-use"
-        ]
-    },
-    {
         "Company": "Akismet",
         "Domain": [
-            "https://akismet.com"
+            "https://https://akismet.com"
         ],
         "Terms of Service": [
             "https://akismet.com/tos/"
         ]
     },
     {
-        "Company": "G2",
+        "Company": "Android",
         "Domain": [
-            "https://g2.com"
+            "https://https://android.com"
         ],
         "Terms of Service": [
-            "https://legal.g2.com/terms-of-use"
+            "https://www.android.com/enterprise/terms/"
         ]
     },
     {
-        "Company": "GNOME",
+        "Company": "Arch Linux",
         "Domain": [
-            "https://gnome.org"
+            "https://https://archlinux.org"
         ],
         "Terms of Service": [
-            "https://discourse.gnome.org/tos"
+            "https://terms.archlinux.org/docs/terms-of-service/"
         ]
     },
     {
-        "Company": "Stitcher",
+        "Company": "Asana",
         "Domain": [
-            "https://stitcher.com"
+            "https://https://asana.com"
         ],
         "Terms of Service": [
-            "https://www.stitcher.com/terms"
+            "https://asana.com/terms"
         ]
     },
     {
-        "Company": "Salesforce",
+        "Company": "Atlassian",
         "Domain": [
-            "https://salesforce.com"
+            "https://https://atlassian.com"
         ],
         "Terms of Service": [
-            "https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/"
+            "https://www.atlassian.com/legal/cloud-terms-of-service"
         ]
     },
     {
-        "Company": "Meetup",
+        "Company": "Autodesk",
         "Domain": [
-            "https://meetup.com"
+            "https://https://autodesk.com"
         ],
         "Terms of Service": [
-            "https://www.meetup.com/terms_of_service/"
+            "https://www.autodesk.com/company/terms-of-use/en/general-terms"
         ]
     },
     {
-        "Company": "Radicas Software",
+        "Company": "Awario",
         "Domain": [
-            "https://radicasoftware.com"
+            "https://https://awario.com"
         ],
         "Terms of Service": [
-            "https://radicasoftware.com/terms"
+            "https://awario.com/terms-and-privacy/"
         ]
     },
     {
-        "Company": "Nexcess",
+        "Company": "BigCommerce",
         "Domain": [
-            "https://nexcess.net"
+            "https://https://bigcommerce.com"
         ],
         "Terms of Service": [
-            "https://www.nexcess.net/policies/terms-of-service/"
+            "https://www.bigcommerce.com/terms/"
         ]
     },
     {
-        "Company": "Cisco",
+        "Company": "BiggerPockets",
         "Domain": [
-            "https://cisco.com"
+            "https://https://biggerpockets.com"
         ],
         "Terms of Service": [
-            "https://www.cisco.com/c/en/us/about/legal/terms-conditions.html"
+            "https://www.biggerpockets.com/terms"
         ]
     },
     {
-        "Company": "OneTrust",
+        "Company": "Bloomberg",
         "Domain": [
-            "https://onetrust.com"
+            "https://https://bloomberg.com"
         ],
         "Terms of Service": [
-            "https://cdn.onetrust.com/legal/OneTrustTermsv20210929.pdf"
+            "https://www.bloomberg.com/notices/tos/"
         ]
     },
     {
-        "Company": "Evernote",
+        "Company": "Blubrry",
         "Domain": [
-            "https://evernote.com"
+            "https://https://blubrry.com"
         ],
         "Terms of Service": [
-            "https://evernote.com/legal/terms-of-service"
+            "https://blubrry.com/about/terms-of-service/"
         ]
     },
     {
-        "Company": "Devloutions",
+        "Company": "Bold BI",
         "Domain": [
-            "https://devolutions.net"
+            "https://https://boldbi.com"
         ],
         "Terms of Service": [
-            "https://devolutions.net/legal/online-services-terms/"
-        ]
-    },
-    {
-        "Company": "Infogram",
-        "Domain": [
-            "https://infogram.com"
-        ],
-        "Terms of Service": [
-            "https://infogram.com/terms"
+            "https://www.boldbi.com/legal/terms-of-use"
         ]
     },
     {
         "Company": "Bold Reports",
         "Domain": [
-            "https://boldreports.com"
+            "https://https://boldreports.com"
         ],
         "Terms of Service": [
             "https://www.boldreports.com/legal/terms-of-use"
@@ -533,712 +164,1081 @@
     {
         "Company": "BoldSign",
         "Domain": [
-            "https://boldsign.com"
+            "https://https://boldsign.com"
         ],
         "Terms of Service": [
             "https://boldsign.com/terms-of-use/"
         ]
     },
     {
-        "Company": "Smartsheet",
-        "Domain": [
-            "https://smartsheet.com"
-        ],
-        "Terms of Service": [
-            "https://www.smartsheet.com/legal/user-agreement"
-        ]
-    },
-    {
-        "Company": "Fastmail",
-        "Domain": [
-            "https://fastmail.com"
-        ],
-        "Terms of Service": [
-            "https://www.fastmail.com/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Yoast",
-        "Domain": [
-            "https://yoast.com"
-        ],
-        "Terms of Service": [
-            "https://yoast.com/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Intuit",
-        "Domain": [
-            "https://intuit.com"
-        ],
-        "Terms of Service": [
-            "https://accounts.intuit.com/terms-of-service"
-        ]
-    },
-    {
-        "Company": "ShareASale",
-        "Domain": [
-            "https://shareasale.com"
-        ],
-        "Terms of Service": [
-            "https://www.shareasale.com/info/terms-of-use/"
-        ]
-    },
-    {
-        "Company": "Spot.io",
-        "Domain": [
-            "https://spot.io"
-        ],
-        "Terms of Service": [
-            "https://spotio.com/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Wix",
-        "Domain": [
-            "https://wix.com"
-        ],
-        "Terms of Service": [
-            "https://www.wix.com/about/terms-of-use"
-        ]
-    },
-    {
-        "Company": "Zoho",
-        "Domain": [
-            "https://zoho.com"
-        ],
-        "Terms of Service": [
-            "https://www.zoho.com/terms.html"
-        ]
-    },
-    {
-        "Company": "GitLab",
-        "Domain": [
-            "https://gitlab.com"
-        ],
-        "Terms of Service": [
-            "https://about.gitlab.com/terms/"
-        ]
-    },
-    {
-        "Company": "PayPal",
-        "Domain": [
-            "https://paypal.com"
-        ],
-        "Terms of Service": [
-            "https://www.paypal.com/us/legalhub/useragreement-full"
-        ]
-    },
-    {
-        "Company": "Splunk",
-        "Domain": [
-            "https://splunk.com"
-        ],
-        "Terms of Service": [
-            "https://www.splunk.com/en_us/legal/splunk-general-terms.html ~~ https://www.splunk.com/en_us/legal/terms/terms-of-use.html"
-        ]
-    },
-    {
-        "Company": "Linux Foundation",
-        "Domain": [
-            "https://linuxfoundation.org"
-        ],
-        "Terms of Service": [
-            "https://www.linuxfoundation.org/legal/terms"
-        ]
-    },
-    {
-        "Company": "Green Geeks",
-        "Domain": [
-            "https://greengeeks.com"
-        ],
-        "Terms of Service": [
-            "https://www.greengeeks.com/legal/tos"
-        ]
-    },
-    {
-        "Company": "Buffer",
-        "Domain": [
-            "https://buffer.com"
-        ],
-        "Terms of Service": [
-            "https://buffer.com/legal#terms"
-        ]
-    },
-    {
-        "Company": "Bold BI",
-        "Domain": [
-            "https://boldbi.com"
-        ],
-        "Terms of Service": [
-            "https://www.boldbi.com/legal/terms-of-use"
-        ]
-    },
-    {
-        "Company": "Jedok",
-        "Domain": [
-            "https://jedok.com"
-        ],
-        "Terms of Service": [
-            "https://jedok.com/terms"
-        ]
-    },
-    {
-        "Company": "Liquid Web",
-        "Domain": [
-            "https://liquidweb.com"
-        ],
-        "Terms of Service": [
-            "https://www.liquidweb.com/about-us/policies/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Contant Contact",
-        "Domain": [
-            "https://constantcontact.com"
-        ],
-        "Terms of Service": [
-            "https://www.constantcontact.com/legal/terms"
-        ]
-    },
-    {
-        "Company": "F5",
-        "Domain": [
-            "https://f5.com"
-        ],
-        "Terms of Service": [
-            "https://www.f5.com/company/policies/terms-of-use"
-        ]
-    },
-    {
-        "Company": "Issuu",
-        "Domain": [
-            "https://issuu.com"
-        ],
-        "Terms of Service": [
-            "https://issuu.com/legal/terms"
-        ]
-    },
-    {
-        "Company": "Snowflake",
-        "Domain": [
-            "https://snowflake.com"
-        ],
-        "Terms of Service": [
-            "https://www.snowflake.com/legal/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Cloudinary",
-        "Domain": [
-            "https://cloudinary.com"
-        ],
-        "Terms of Service": [
-            "https://cloudinary.com/tou"
-        ]
-    },
-    {
-        "Company": "Blubrry",
-        "Domain": [
-            "https://blubrry.com"
-        ],
-        "Terms of Service": [
-            "https://blubrry.com/about/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "ProfitWell",
-        "Domain": [
-            "https://profitwell.com"
-        ],
-        "Terms of Service": [
-            "https://www.paddle.com/legal/retain-metrics-terms-of-use"
-        ]
-    },
-    {
-        "Company": "RingCentral",
-        "Domain": [
-            "https://ringcentral.com"
-        ],
-        "Terms of Service": [
-            "https://www.ringcentral.com/legal/eulatos.html"
-        ]
-    },
-    {
-        "Company": "Calendly",
-        "Domain": [
-            "https://calendly.com"
-        ],
-        "Terms of Service": [
-            "https://calendly.com/terms/"
-        ]
-    },
-    {
-        "Company": "Docker",
-        "Domain": [
-            "https://docker.com"
-        ],
-        "Terms of Service": [
-            "https://www.docker.com/legal/docker-terms-service/"
-        ]
-    },
-    {
-        "Company": "Aggregage",
-        "Domain": [
-            "https://aggregage.com"
-        ],
-        "Terms of Service": [
-            "https://www.aggregage.com/terms-and-conditions/"
-        ]
-    },
-    {
-        "Company": "Atlassian",
-        "Domain": [
-            "https://atlassian.com"
-        ],
-        "Terms of Service": [
-            "https://www.atlassian.com/legal/cloud-terms-of-service"
-        ]
-    },
-    {
-        "Company": "Hewlett Packard Enterprise",
-        "Domain": [
-            "https://hpe.com"
-        ],
-        "Terms of Service": [
-            "https://www.hpe.com/us/en/about/legal/terms-of-use.html"
-        ]
-    },
-    {
-        "Company": "Asana",
-        "Domain": [
-            "https://asana.com"
-        ],
-        "Terms of Service": [
-            "https://asana.com/terms"
-        ]
-    },
-    {
-        "Company": "Microsoft Office",
-        "Domain": [
-            "https://office.com"
-        ],
-        "Terms of Service": [
-            "https://www.microsoft.com/en-us/servicesagreement"
-        ]
-    },
-    {
-        "Company": "Quick Sprout",
-        "Domain": [
-            "https://quicksprout.com"
-        ],
-        "Terms of Service": [
-            "https://www.quicksprout.com/general-terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Bloomberg",
-        "Domain": [
-            "https://bloomberg.com"
-        ],
-        "Terms of Service": [
-            "https://www.bloomberg.com/notices/tos/"
-        ]
-    },
-    {
-        "Company": "GTmetrix",
-        "Domain": [
-            "https://gtmetrix.com"
-        ],
-        "Terms of Service": [
-            "https://gtmetrix.com/terms-of-service.html"
-        ]
-    },
-    {
-        "Company": "SHRM",
-        "Domain": [
-            "https://shrm.org"
-        ],
-        "Terms of Service": [
-            "https://www.shrm.org/about/terms-of-use"
-        ]
-    },
-    {
-        "Company": "Zapier",
-        "Domain": [
-            "https://zapier.com"
-        ],
-        "Terms of Service": [
-            "https://zapier.com/legal/website-terms-of-use"
-        ]
-    },
-    {
-        "Company": "Gartner",
-        "Domain": [
-            "https://gartner.com"
-        ],
-        "Terms of Service": [
-            "https://www.gartner.com/en/about/policies/terms-of-use"
-        ]
-    },
-    {
-        "Company": "OVH Cloud",
-        "Domain": [
-            "https://ovhcloud.com"
-        ],
-        "Terms of Service": [
-            "https://us.ovhcloud.com/legal/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "BiggerPockets",
-        "Domain": [
-            "https://biggerpockets.com"
-        ],
-        "Terms of Service": [
-            "https://www.biggerpockets.com/terms"
-        ]
-    },
-    {
-        "Company": "OptiMonster",
-        "Domain": [
-            "https://optinmonster.com"
-        ],
-        "Terms of Service": [
-            "https://optinmonster.com/terms/"
-        ]
-    },
-    {
-        "Company": "1Password",
-        "Domain": [
-            "https://1password.com"
-        ],
-        "Terms of Service": [
-            "https://1password.com/legal/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Workday",
-        "Domain": [
-            "https://workday.com"
-        ],
-        "Terms of Service": [
-            "https://www.workday.com/en-us/legal/site-terms.html"
-        ]
-    },
-    {
-        "Company": "Twitch",
-        "Domain": [
-            "https://twitch.tv"
-        ],
-        "Terms of Service": [
-            "https://www.twitch.tv/p/en/legal/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "2Checkout",
-        "Domain": [
-            "https://2checkout.com"
-        ],
-        "Terms of Service": [
-            "https://www.2checkout.com/legal/terms/"
-        ]
-    },
-    {
-        "Company": "BigCommerce",
-        "Domain": [
-            "https://bigcommerce.com"
-        ],
-        "Terms of Service": [
-            "https://www.bigcommerce.com/terms/"
-        ]
-    },
-    {
-        "Company": "Pythian",
-        "Domain": [
-            "https://pythian.com"
-        ],
-        "Terms of Service": [
-            "https://www.pythian.com/terms-conditions"
-        ]
-    },
-    {
-        "Company": "Close.com",
-        "Domain": [
-            "https://close.com"
-        ],
-        "Terms of Service": [
-            "https://www.close.com/tos"
-        ]
-    },
-    {
-        "Company": "Fiverr",
-        "Domain": [
-            "https://fiverr.com"
-        ],
-        "Terms of Service": [
-            "https://workspace.fiverr.com/terms/"
-        ]
-    },
-    {
-        "Company": "VentureBeat",
-        "Domain": [
-            "https://venturebeat.com"
-        ],
-        "Terms of Service": [
-            "https://venturebeat.com/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Synopsys",
-        "Domain": [
-            "https://synopsys.com"
-        ],
-        "Terms of Service": [
-            "https://www.synopsys.com/company/legal/software-integrity/terms-of-service.html"
-        ]
-    },
-    {
-        "Company": "Hopin",
-        "Domain": [
-            "https://hopin.com"
-        ],
-        "Terms of Service": [
-            "https://hopin.com/hopin-events/legal/terms"
-        ]
-    },
-    {
-        "Company": "Siemens",
-        "Domain": [
-            "https://siemens.com"
-        ],
-        "Terms of Service": [
-            "https://www.siemens.com/global/en/general/terms-of-use.html"
-        ]
-    },
-    {
-        "Company": "Squarespace",
-        "Domain": [
-            "https://squarespace.com"
-        ],
-        "Terms of Service": [
-            "https://www.squarespace.com/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Feedly",
-        "Domain": [
-            "https://feedly.com"
-        ],
-        "Terms of Service": [
-            "https://feedly.com/terms_of_use"
-        ]
-    },
-    {
-        "Company": "Autodesk",
-        "Domain": [
-            "https://autodesk.com"
-        ],
-        "Terms of Service": [
-            "https://www.autodesk.com/company/terms-of-use/en/general-terms"
-        ]
-    },
-    {
-        "Company": "Twilio",
-        "Domain": [
-            "https://twilio.com"
-        ],
-        "Terms of Service": [
-            "https://www.twilio.com/en-us/legal/tos"
-        ]
-    },
-    {
-        "Company": "SurveyMonkey",
-        "Domain": [
-            "https://surveymonkey.com"
-        ],
-        "Terms of Service": [
-            "https://www.surveymonkey.com/mp/legal/terms-of-use/"
-        ]
-    },
-    {
-        "Company": "Arch Linux",
-        "Domain": [
-            "https://archlinux.org"
-        ],
-        "Terms of Service": [
-            "https://terms.archlinux.org/docs/terms-of-service/"
-        ]
-    },
-    {
-        "Company": "iThemes",
-        "Domain": [
-            "https://ithemes.com"
-        ],
-        "Terms of Service": [
-            "https://ithemes.com/ithemes-hosting-terms-of-service/"
-        ]
-    },
-    {
-        "Company": "Android",
-        "Domain": [
-            "https://android.com"
-        ],
-        "Terms of Service": [
-            "https://www.android.com/enterprise/terms/"
-        ]
-    },
-    {
-        "Company": "WPForms",
-        "Domain": [
-            "https://wpforms.com"
-        ],
-        "Terms of Service": [
-            "https://wpforms.com/terms/"
-        ]
-    },
-    {
-        "Company": "Drupal",
-        "Domain": [
-            "https://drupal.org"
-        ],
-        "Terms of Service": [
-            "https://www.drupal.org/terms"
-        ]
-    },
-    {
-        "Company": "Notion",
-        "Domain": [
-            "https://notion.so"
-        ],
-        "Terms of Service": [
-            "https://www.notion.so/notion/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac"
-        ]
-    },
-    {
-        "Company": "PowerToFly",
-        "Domain": [
-            "https://powertofly.com"
-        ],
-        "Terms of Service": [
-            "https://powertofly.com/about/terms-of-service"
-        ]
-    },
-    {
-        "Company": "Eventbrite",
-        "Domain": [
-            "https://eventbrite.com"
-        ],
-        "Terms of Service": [
-            "https://www.eventbrite.com/help/en-us/articles/251210/eventbrite-terms-of-service/"
-        ]
-    },
-    {
-        "Company": "On24",
-        "Domain": [
-            "https://on24.com"
-        ],
-        "Terms of Service": [
-            "https://www.on24.com/terms-and-conditions/"
-        ]
-    },
-    {
-        "Company": "Glassdoor",
-        "Domain": [
-            "https://glassdoor.com"
-        ],
-        "Terms of Service": [
-            "https://www.glassdoor.com/resources/terms-of-service/"
-        ]
-    },
-    {
         "Company": "Box",
         "Domain": [
-            "https://box.com"
+            "https://https://box.com"
         ],
         "Terms of Service": [
             "https://www.box.com/legal/termsofservice"
         ]
     },
     {
-        "Company": "Talend",
+        "Company": "BPlan",
         "Domain": [
-            "https://talend.com"
+            "https://https://bplans.com"
         ],
         "Terms of Service": [
-            "https://www.talend.com/terms-use/"
+            "https://www.bplans.com/policies/terms.php"
         ]
     },
     {
-        "Company": "Awario",
+        "Company": "Buffer",
         "Domain": [
-            "https://awario.com"
+            "https://https://buffer.com"
         ],
         "Terms of Service": [
-            "https://awario.com/terms-and-privacy/"
+            "https://buffer.com/legal#terms"
+        ]
+    },
+    {
+        "Company": "Calendly",
+        "Domain": [
+            "https://https://calendly.com"
+        ],
+        "Terms of Service": [
+            "https://calendly.com/terms/"
+        ]
+    },
+    {
+        "Company": "Canva",
+        "Domain": [
+            "https://https://canva.com"
+        ],
+        "Terms of Service": [
+            "https://www.canva.com/policies/terms-of-use/"
+        ]
+    },
+    {
+        "Company": "Cisco",
+        "Domain": [
+            "https://https://cisco.com"
+        ],
+        "Terms of Service": [
+            "https://www.cisco.com/c/en/us/about/legal/terms-conditions.html"
+        ]
+    },
+    {
+        "Company": "Cision",
+        "Domain": [
+            "https://https://cision.com"
+        ],
+        "Terms of Service": [
+            "https://www.cision.com/legal/prw-terms/"
+        ]
+    },
+    {
+        "Company": "Close.com",
+        "Domain": [
+            "https://https://close.com"
+        ],
+        "Terms of Service": [
+            "https://www.close.com/tos"
+        ]
+    },
+    {
+        "Company": "Cloudinary",
+        "Domain": [
+            "https://https://cloudinary.com"
+        ],
+        "Terms of Service": [
+            "https://cloudinary.com/tou"
+        ]
+    },
+    {
+        "Company": "Comodo",
+        "Domain": [
+            "https://https://comodo.com"
+        ],
+        "Terms of Service": [
+            "https://www.comodo.com/privacy-policy/terms.php"
+        ]
+    },
+    {
+        "Company": "Contant Contact",
+        "Domain": [
+            "https://https://constantcontact.com"
+        ],
+        "Terms of Service": [
+            "https://www.constantcontact.com/legal/terms"
+        ]
+    },
+    {
+        "Company": "Crunchbase",
+        "Domain": [
+            "https://https://crunchbase.com"
+        ],
+        "Terms of Service": [
+            "https://about.crunchbase.com/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Delphipraxis",
+        "Domain": [
+            "https://https://delphipraxis.net"
+        ],
+        "Terms of Service": [
+            "https://en.delphipraxis.net/terms/"
+        ]
+    },
+    {
+        "Company": "Devloutions",
+        "Domain": [
+            "https://https://devolutions.net"
+        ],
+        "Terms of Service": [
+            "https://devolutions.net/legal/online-services-terms/"
         ]
     },
     {
         "Company": "Diigo",
         "Domain": [
-            "https://diigo.com"
+            "https://https://diigo.com"
         ],
         "Terms of Service": [
             "https://www.diigo.com/terms"
         ]
     },
     {
-        "Company": "AddThis",
+        "Company": "Docker",
         "Domain": [
-            "https://addthis.com"
+            "https://https://docker.com"
         ],
         "Terms of Service": [
-            "https://www.addthis.com/privacy/terms-of-service.html"
+            "https://www.docker.com/legal/docker-terms-service/"
         ]
     },
     {
-        "Company": "Sprout Social",
+        "Company": "Dropbox",
         "Domain": [
-            "https://sproutsocial.com"
+            "https://https://dropbox.com"
         ],
         "Terms of Service": [
-            "https://sproutsocial.com/legal/terms"
+            "https://www.dropbox.com/terms"
         ]
     },
     {
-        "Company": "Joomla",
+        "Company": "Drupal",
         "Domain": [
-            "https://joomla.org"
+            "https://https://drupal.org"
         ],
         "Terms of Service": [
-            "https://docs.joomla.org/JDOC:Terms_of_Service"
+            "https://www.drupal.org/terms"
         ]
     },
     {
-        "Company": "MongoDB",
+        "Company": "Eclipse",
         "Domain": [
-            "https://mongodb.com"
+            "https://https://eclipse.org"
         ],
         "Terms of Service": [
-            "https://www.mongodb.com/legal/terms-of-use"
+            "https://www.eclipse.org/legal/termsofuse.php"
+        ]
+    },
+    {
+        "Company": "EdrawSoft",
+        "Domain": [
+            "https://https://edrawsoft.com"
+        ],
+        "Terms of Service": [
+            "https://www.edrawsoft.com/terms-conditions.html"
+        ]
+    },
+    {
+        "Company": "Embarcadero",
+        "Domain": [
+            "https://https://embarcadero.com"
+        ],
+        "Terms of Service": [
+            "https://www.embarcadero.com/product-license-and-support-terms"
+        ]
+    },
+    {
+        "Company": "Evanto",
+        "Domain": [
+            "https://https://envato.com"
+        ],
+        "Terms of Service": [
+            "https://elements.envato.com/user-terms ~~ https://elements.envato.com/license-terms"
+        ]
+    },
+    {
+        "Company": "Eventbrite",
+        "Domain": [
+            "https://https://eventbrite.com"
+        ],
+        "Terms of Service": [
+            "https://www.eventbrite.com/help/en-us/articles/251210/eventbrite-terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Evernote",
+        "Domain": [
+            "https://https://evernote.com"
+        ],
+        "Terms of Service": [
+            "https://evernote.com/legal/terms-of-service"
+        ]
+    },
+    {
+        "Company": "F5",
+        "Domain": [
+            "https://https://f5.com"
+        ],
+        "Terms of Service": [
+            "https://www.f5.com/company/policies/terms-of-use"
+        ]
+    },
+    {
+        "Company": "Fastmail",
+        "Domain": [
+            "https://https://fastmail.com"
+        ],
+        "Terms of Service": [
+            "https://www.fastmail.com/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Feedly",
+        "Domain": [
+            "https://https://feedly.com"
+        ],
+        "Terms of Service": [
+            "https://feedly.com/terms_of_use"
+        ]
+    },
+    {
+        "Company": "Fiverr",
+        "Domain": [
+            "https://https://fiverr.com"
+        ],
+        "Terms of Service": [
+            "https://workspace.fiverr.com/terms/"
+        ]
+    },
+    {
+        "Company": "Flickr",
+        "Domain": [
+            "https://https://flickr.com"
+        ],
+        "Terms of Service": [
+            "https://www.flickr.com/help/terms"
         ]
     },
     {
         "Company": "Forem",
         "Domain": [
-            "https://forem.com"
+            "https://https://forem.com"
         ],
         "Terms of Service": [
             "https://account.forem.com/terms"
         ]
     },
     {
+        "Company": "Future",
+        "Domain": [
+            "https://https://futureplc.com"
+        ],
+        "Terms of Service": [
+            "https://futureplc.com/terms-conditions/"
+        ]
+    },
+    {
+        "Company": "G2",
+        "Domain": [
+            "https://https://g2.com"
+        ],
+        "Terms of Service": [
+            "https://legal.g2.com/terms-of-use"
+        ]
+    },
+    {
+        "Company": "Gartner",
+        "Domain": [
+            "https://https://gartner.com"
+        ],
+        "Terms of Service": [
+            "https://www.gartner.com/en/about/policies/terms-of-use"
+        ]
+    },
+    {
+        "Company": "GitLab",
+        "Domain": [
+            "https://https://gitlab.com"
+        ],
+        "Terms of Service": [
+            "https://about.gitlab.com/terms/"
+        ]
+    },
+    {
+        "Company": "Glassdoor",
+        "Domain": [
+            "https://https://glassdoor.com"
+        ],
+        "Terms of Service": [
+            "https://www.glassdoor.com/resources/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "GNOME",
+        "Domain": [
+            "https://https://gnome.org"
+        ],
+        "Terms of Service": [
+            "https://discourse.gnome.org/tos"
+        ]
+    },
+    {
+        "Company": "GoDaddy",
+        "Domain": [
+            "https://https://godaddy.com"
+        ],
+        "Terms of Service": [
+            "https://www.godaddy.com/legal/agreements/universal-terms-of-service-agreement"
+        ]
+    },
+    {
+        "Company": "Green Geeks",
+        "Domain": [
+            "https://https://greengeeks.com"
+        ],
+        "Terms of Service": [
+            "https://www.greengeeks.com/legal/tos"
+        ]
+    },
+    {
+        "Company": "GTmetrix",
+        "Domain": [
+            "https://https://gtmetrix.com"
+        ],
+        "Terms of Service": [
+            "https://gtmetrix.com/terms-of-service.html"
+        ]
+    },
+    {
+        "Company": "Hewlett Packard Enterprise",
+        "Domain": [
+            "https://https://hpe.com"
+        ],
+        "Terms of Service": [
+            "https://www.hpe.com/us/en/about/legal/terms-of-use.html"
+        ]
+    },
+    {
+        "Company": "Hootsuite",
+        "Domain": [
+            "https://https://hootsuite.com"
+        ],
+        "Terms of Service": [
+            "https://www.hootsuite.com/legal/terms"
+        ]
+    },
+    {
+        "Company": "Hopin",
+        "Domain": [
+            "https://https://hopin.com"
+        ],
+        "Terms of Service": [
+            "https://hopin.com/hopin-events/legal/terms"
+        ]
+    },
+    {
+        "Company": "HubSpot",
+        "Domain": [
+            "https://https://hubspot.com"
+        ],
+        "Terms of Service": [
+            "https://legal.hubspot.com/terms-of-service"
+        ]
+    },
+    {
+        "Company": "Infogram",
+        "Domain": [
+            "https://https://infogram.com"
+        ],
+        "Terms of Service": [
+            "https://infogram.com/terms"
+        ]
+    },
+    {
+        "Company": "Instructure",
+        "Domain": [
+            "https://https://instructure.com"
+        ],
+        "Terms of Service": [
+            "https://www.instructure.com/policies/terms-of-use"
+        ]
+    },
+    {
+        "Company": "Intuit",
+        "Domain": [
+            "https://https://intuit.com"
+        ],
+        "Terms of Service": [
+            "https://accounts.intuit.com/terms-of-service"
+        ]
+    },
+    {
+        "Company": "Issuu",
+        "Domain": [
+            "https://https://issuu.com"
+        ],
+        "Terms of Service": [
+            "https://issuu.com/legal/terms"
+        ]
+    },
+    {
+        "Company": "iThemes",
+        "Domain": [
+            "https://https://ithemes.com"
+        ],
+        "Terms of Service": [
+            "https://ithemes.com/ithemes-hosting-terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Jedok",
+        "Domain": [
+            "https://https://jedok.com"
+        ],
+        "Terms of Service": [
+            "https://jedok.com/terms"
+        ]
+    },
+    {
+        "Company": "Joomla",
+        "Domain": [
+            "https://https://joomla.org"
+        ],
+        "Terms of Service": [
+            "https://docs.joomla.org/JDOC:Terms_of_Service"
+        ]
+    },
+    {
+        "Company": "Libsyn",
+        "Domain": [
+            "https://https://libsyn.com"
+        ],
+        "Terms of Service": [
+            "https://libsyn.com/tos-policies/tos-mylibsyn/"
+        ]
+    },
+    {
+        "Company": "Link Assistant",
+        "Domain": [
+            "https://https://link-assistant.com"
+        ],
+        "Terms of Service": [
+            "https://www.link-assistant.com/terms-of-services.html"
+        ]
+    },
+    {
+        "Company": "Linux Foundation",
+        "Domain": [
+            "https://https://linuxfoundation.org"
+        ],
+        "Terms of Service": [
+            "https://www.linuxfoundation.org/legal/terms"
+        ]
+    },
+    {
+        "Company": "Liquid Web",
+        "Domain": [
+            "https://https://liquidweb.com"
+        ],
+        "Terms of Service": [
+            "https://www.liquidweb.com/about-us/policies/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "LivePlan",
+        "Domain": [
+            "https://https://liveplan.com"
+        ],
+        "Terms of Service": [
+            "https://www.liveplan.com/policies/terms-of-service"
+        ]
+    },
+    {
+        "Company": "Mailchimp",
+        "Domain": [
+            "https://https://mailchimp.com"
+        ],
+        "Terms of Service": [
+            "https://mailchimp.com/legal/terms/"
+        ]
+    },
+    {
+        "Company": "MediaBrains",
+        "Domain": [
+            "https://https://mediabrains.com"
+        ],
+        "Terms of Service": [
+            "https://www.mediabrains.com/termsofuse/"
+        ]
+    },
+    {
+        "Company": "Meetup",
+        "Domain": [
+            "https://https://meetup.com"
+        ],
+        "Terms of Service": [
+            "https://www.meetup.com/terms_of_service/"
+        ]
+    },
+    {
+        "Company": "Microsoft Office",
+        "Domain": [
+            "https://https://office.com"
+        ],
+        "Terms of Service": [
+            "https://www.microsoft.com/en-us/servicesagreement"
+        ]
+    },
+    {
+        "Company": "MongoDB",
+        "Domain": [
+            "https://https://mongodb.com"
+        ],
+        "Terms of Service": [
+            "https://www.mongodb.com/legal/terms-of-use"
+        ]
+    },
+    {
+        "Company": "Moz",
+        "Domain": [
+            "https://https://moz.com"
+        ],
+        "Terms of Service": [
+            "https://moz.com/terms-of-use"
+        ]
+    },
+    {
+        "Company": "Nexcess",
+        "Domain": [
+            "https://https://nexcess.net"
+        ],
+        "Terms of Service": [
+            "https://www.nexcess.net/policies/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Notion",
+        "Domain": [
+            "https://https://notion.so"
+        ],
+        "Terms of Service": [
+            "https://www.notion.so/notion/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac"
+        ]
+    },
+    {
+        "Company": "On24",
+        "Domain": [
+            "https://https://on24.com"
+        ],
+        "Terms of Service": [
+            "https://www.on24.com/terms-and-conditions/"
+        ]
+    },
+    {
+        "Company": "OneTrust",
+        "Domain": [
+            "https://https://onetrust.com"
+        ],
+        "Terms of Service": [
+            "https://cdn.onetrust.com/legal/OneTrustTermsv20210929.pdf"
+        ]
+    },
+    {
+        "Company": "OptiMonster",
+        "Domain": [
+            "https://https://optinmonster.com"
+        ],
+        "Terms of Service": [
+            "https://optinmonster.com/terms/"
+        ]
+    },
+    {
+        "Company": "Oracle",
+        "Domain": [
+            "https://https://oracle.com"
+        ],
+        "Terms of Service": [
+            "https://www.oracle.com/legal/terms.html"
+        ]
+    },
+    {
+        "Company": "OVH Cloud",
+        "Domain": [
+            "https://https://ovhcloud.com"
+        ],
+        "Terms of Service": [
+            "https://us.ovhcloud.com/legal/terms-of-service/"
+        ]
+    },
+    {
         "Company": "Packt",
         "Domain": [
-            "https://packtpub.com"
+            "https://https://packtpub.com"
         ],
         "Terms of Service": [
             "https://www.packtpub.com/terms-conditions"
+        ]
+    },
+    {
+        "Company": "Palo Alto Netowrks",
+        "Domain": [
+            "https://https://paloalto.com"
+        ],
+        "Terms of Service": [
+            "https://www.paloaltonetworks.com/legal-notices/terms-of-use"
+        ]
+    },
+    {
+        "Company": "PayPal",
+        "Domain": [
+            "https://https://paypal.com"
+        ],
+        "Terms of Service": [
+            "https://www.paypal.com/us/legalhub/useragreement-full"
+        ]
+    },
+    {
+        "Company": "Pingdom",
+        "Domain": [
+            "https://https://pingdom.com"
+        ],
+        "Terms of Service": [
+            "https://www.pingdom.com/legal/terms-of-use/"
+        ]
+    },
+    {
+        "Company": "Pocket",
+        "Domain": [
+            "https://https://getpocket.com"
+        ],
+        "Terms of Service": [
+            "https://getpocket.com/tos"
+        ]
+    },
+    {
+        "Company": "PowerToFly",
+        "Domain": [
+            "https://https://powertofly.com"
+        ],
+        "Terms of Service": [
+            "https://powertofly.com/about/terms-of-service"
+        ]
+    },
+    {
+        "Company": "ProfitWell",
+        "Domain": [
+            "https://https://profitwell.com"
+        ],
+        "Terms of Service": [
+            "https://www.paddle.com/legal/retain-metrics-terms-of-use"
+        ]
+    },
+    {
+        "Company": "Pythian",
+        "Domain": [
+            "https://https://pythian.com"
+        ],
+        "Terms of Service": [
+            "https://www.pythian.com/terms-conditions"
+        ]
+    },
+    {
+        "Company": "Quick Sprout",
+        "Domain": [
+            "https://https://quicksprout.com"
+        ],
+        "Terms of Service": [
+            "https://www.quicksprout.com/general-terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Radicas Software",
+        "Domain": [
+            "https://https://radicasoftware.com"
+        ],
+        "Terms of Service": [
+            "https://radicasoftware.com/terms"
+        ]
+    },
+    {
+        "Company": "Red Hat",
+        "Domain": [
+            "https://https://redhat.com"
+        ],
+        "Terms of Service": [
+            "https://www.redhat.com/en/about/terms-use"
+        ]
+    },
+    {
+        "Company": "RingCentral",
+        "Domain": [
+            "https://https://ringcentral.com"
+        ],
+        "Terms of Service": [
+            "https://www.ringcentral.com/legal/eulatos.html"
+        ]
+    },
+    {
+        "Company": "Salesforce",
+        "Domain": [
+            "https://https://salesforce.com"
+        ],
+        "Terms of Service": [
+            "https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/"
+        ]
+    },
+    {
+        "Company": "SAP",
+        "Domain": [
+            "https://https://sap.com"
+        ],
+        "Terms of Service": [
+            "https://www.sap.com/about/trust-center/agreements/on-premise/general-terms-and-conditions.html ~~ https://support.sap.com/en/terms-of-use.html"
+        ]
+    },
+    {
+        "Company": "Semrush",
+        "Domain": [
+            "https://https://semrush.com"
+        ],
+        "Terms of Service": [
+            "https://www.semrush.com/company/legal/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "ShareASale",
+        "Domain": [
+            "https://https://shareasale.com"
+        ],
+        "Terms of Service": [
+            "https://www.shareasale.com/info/terms-of-use/"
+        ]
+    },
+    {
+        "Company": "Shopify",
+        "Domain": [
+            "https://https://shopify.com"
+        ],
+        "Terms of Service": [
+            "https://www.shopify.com/legal/terms"
+        ]
+    },
+    {
+        "Company": "SHRM",
+        "Domain": [
+            "https://https://shrm.org"
+        ],
+        "Terms of Service": [
+            "https://www.shrm.org/about/terms-of-use"
+        ]
+    },
+    {
+        "Company": "Siemens",
+        "Domain": [
+            "https://https://siemens.com"
+        ],
+        "Terms of Service": [
+            "https://www.siemens.com/global/en/general/terms-of-use.html"
+        ]
+    },
+    {
+        "Company": "Slack",
+        "Domain": [
+            "https://https://slack.com"
+        ],
+        "Terms of Service": [
+            "https://slack.com/terms-of-service/user ~~ https://slack.com/main-services-agreement"
+        ]
+    },
+    {
+        "Company": "Smartsheet",
+        "Domain": [
+            "https://https://smartsheet.com"
+        ],
+        "Terms of Service": [
+            "https://www.smartsheet.com/legal/user-agreement"
+        ]
+    },
+    {
+        "Company": "Snowflake",
+        "Domain": [
+            "https://https://snowflake.com"
+        ],
+        "Terms of Service": [
+            "https://www.snowflake.com/legal/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Solarwinds",
+        "Domain": [
+            "https://https://solarwinds.com"
+        ],
+        "Terms of Service": [
+            "https://www.solarwinds.com/legal/terms"
+        ]
+    },
+    {
+        "Company": "Splunk",
+        "Domain": [
+            "https://https://splunk.com"
+        ],
+        "Terms of Service": [
+            "https://www.splunk.com/en_us/legal/splunk-general-terms.html ~~ https://www.splunk.com/en_us/legal/terms/terms-of-use.html"
+        ]
+    },
+    {
+        "Company": "Spot.io",
+        "Domain": [
+            "https://https://spot.io"
+        ],
+        "Terms of Service": [
+            "https://spotio.com/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Sprout Social",
+        "Domain": [
+            "https://https://sproutsocial.com"
+        ],
+        "Terms of Service": [
+            "https://sproutsocial.com/legal/terms"
+        ]
+    },
+    {
+        "Company": "Squarespace",
+        "Domain": [
+            "https://https://squarespace.com"
+        ],
+        "Terms of Service": [
+            "https://www.squarespace.com/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Stitcher",
+        "Domain": [
+            "https://https://stitcher.com"
+        ],
+        "Terms of Service": [
+            "https://www.stitcher.com/terms"
+        ]
+    },
+    {
+        "Company": "SurveyMonkey",
+        "Domain": [
+            "https://https://surveymonkey.com"
+        ],
+        "Terms of Service": [
+            "https://www.surveymonkey.com/mp/legal/terms-of-use/"
+        ]
+    },
+    {
+        "Company": "Syncfusion",
+        "Domain": [
+            "https://https://syncfusion.com"
+        ],
+        "Terms of Service": [
+            "https://www.syncfusion.com/terms-of-use"
+        ]
+    },
+    {
+        "Company": "Synopsys",
+        "Domain": [
+            "https://https://synopsys.com"
+        ],
+        "Terms of Service": [
+            "https://www.synopsys.com/company/legal/software-integrity/terms-of-service.html"
+        ]
+    },
+    {
+        "Company": "Talend",
+        "Domain": [
+            "https://https://talend.com"
+        ],
+        "Terms of Service": [
+            "https://www.talend.com/terms-use/"
+        ]
+    },
+    {
+        "Company": "Trello",
+        "Domain": [
+            "https://https://trello.com"
+        ],
+        "Terms of Service": [
+            "https://www.atlassian.com/legal/cloud-terms-of-service"
+        ]
+    },
+    {
+        "Company": "Twilio",
+        "Domain": [
+            "https://https://twilio.com"
+        ],
+        "Terms of Service": [
+            "https://www.twilio.com/en-us/legal/tos"
+        ]
+    },
+    {
+        "Company": "Twitch",
+        "Domain": [
+            "https://https://twitch.tv"
+        ],
+        "Terms of Service": [
+            "https://www.twitch.tv/p/en/legal/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Vantage Circle",
+        "Domain": [
+            "https://https://vantagecircle.com"
+        ],
+        "Terms of Service": [
+            "https://www.vantagecircle.com/terms-conditions/"
+        ]
+    },
+    {
+        "Company": "VentureBeat",
+        "Domain": [
+            "https://https://venturebeat.com"
+        ],
+        "Terms of Service": [
+            "https://venturebeat.com/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Vimeo",
+        "Domain": [
+            "https://https://vimeo.com"
+        ],
+        "Terms of Service": [
+            "https://vimeo.com/terms"
+        ]
+    },
+    {
+        "Company": "VK",
+        "Domain": [
+            "https://https://vk.com"
+        ],
+        "Terms of Service": [
+            "https://vk.com/terms"
+        ]
+    },
+    {
+        "Company": "VMware",
+        "Domain": [
+            "https://https://vmware.com"
+        ],
+        "Terms of Service": [
+            "https://www.vmware.com/vmware-general-terms.html"
+        ]
+    },
+    {
+        "Company": "Wix",
+        "Domain": [
+            "https://https://wix.com"
+        ],
+        "Terms of Service": [
+            "https://www.wix.com/about/terms-of-use"
+        ]
+    },
+    {
+        "Company": "Wondershare",
+        "Domain": [
+            "https://https://wondershare.com"
+        ],
+        "Terms of Service": [
+            "https://www.wondershare.com/company/terms_conditions.html"
+        ]
+    },
+    {
+        "Company": "Workday",
+        "Domain": [
+            "https://https://workday.com"
+        ],
+        "Terms of Service": [
+            "https://www.workday.com/en-us/legal/site-terms.html"
+        ]
+    },
+    {
+        "Company": "WPEngine",
+        "Domain": [
+            "https://https://wpengine.com"
+        ],
+        "Terms of Service": [
+            "https://wpengine.com/legal/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "WPForms",
+        "Domain": [
+            "https://https://wpforms.com"
+        ],
+        "Terms of Service": [
+            "https://wpforms.com/terms/"
+        ]
+    },
+    {
+        "Company": "Yoast",
+        "Domain": [
+            "https://https://yoast.com"
+        ],
+        "Terms of Service": [
+            "https://yoast.com/terms-of-service/"
+        ]
+    },
+    {
+        "Company": "Zapier",
+        "Domain": [
+            "https://https://zapier.com"
+        ],
+        "Terms of Service": [
+            "https://zapier.com/legal/website-terms-of-use"
+        ]
+    },
+    {
+        "Company": "Zeef",
+        "Domain": [
+            "https://https://zeef.com"
+        ],
+        "Terms of Service": [
+            "https://zeef.com/terms"
+        ]
+    },
+    {
+        "Company": "Zendesk",
+        "Domain": [
+            "https://https://zendesk.com"
+        ],
+        "Terms of Service": [
+            "https://www.zendesk.com/company/agreements-and-terms/main-services-agreement/ ~~ https://www.zendesk.com/company/agreements-and-terms/"
+        ]
+    },
+    {
+        "Company": "Zoho",
+        "Domain": [
+            "https://https://zoho.com"
+        ],
+        "Terms of Service": [
+            "https://www.zoho.com/terms.html"
+        ]
+    },
+    {
+        "Company": "Zoom",
+        "Domain": [
+            "https://https://zoom.us"
+        ],
+        "Terms of Service": [
+            "https://explore.zoom.us/en/terms/"
         ]
     }
 ]
